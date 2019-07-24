@@ -1,6 +1,6 @@
 # Color-Switch-Replica
  
-This is a Color Switch Replica created by Unity3d.
+This is a Color Switch Replica game created by Unity3d.
 
 Following Brackeys Channel, I have created this project which is similar to the original Color Switch game.
 
